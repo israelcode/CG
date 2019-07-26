@@ -1,2 +1,0 @@
-# CG
-computer graphic
